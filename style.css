@@ -1,5 +1,6 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, Verdana, sans-serif;
+    box-sizing: border-box;
 }
 
 .header {
@@ -13,4 +14,12 @@
     background-color: white;
     text-align: left;
     font-size: 28px;
+}
+
+.description{
+    background-color: azure;
+    text-align: center;
+    margin: 16px;
+    padding: 16px auto;
+
 }
